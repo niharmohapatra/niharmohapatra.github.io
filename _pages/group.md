@@ -16,7 +16,7 @@ redirect_from:
 - Radhika Jogelkar (ML assisted Computational Lithography)
 - Om Maheshwari, PMRF (ML assisted Device-Process Optimization)
 - D. Sharda Devi, PMRF (2D Material based FETs)
-- Nishant kumar Singh (PMIC Design) 
+- Nishant Kumar Singh (PMIC Design) 
 - Aishwarya Singh (Compact model development)
 - Ramandeep Kaur (NSFETs, Device-Circuit Co-design)
 
