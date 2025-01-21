@@ -70,7 +70,7 @@ redirect_from:
 
 34\. Vivek Yadav (Thesis - On-chip low frequency sinusoidal oscillator for cryocooler applications, Graduated in 2024), Co-founder TRADO (Startup, IIT Gandhinagar).
 
-33\. Sakshi Sawai (Thesis - On-chip low frequency sinusoidal oscillator for cryocooler applications, Graduated in 2023), Joined 
+33\. Sakshi Sawai (Thesis - On-chip low frequency sinusoidal oscillator for cryocooler applications, Graduated in 2023), Joined Texas Instruments, India.  
 
 32\. Ravins Katiyar (Thesis - Device design of indigenous low-cost single, double-poly silicon bipolar transistors for Analog and RF applications, Graduated in 2021), Joined GLOBALFOUNDRIES, Bengaluru, India.
 
