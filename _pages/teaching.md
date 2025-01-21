@@ -4,6 +4,9 @@ collection: archive
 permalink: /teaching/
 venue: "IIT Gandhinagar, Electrical Engineering Department"
 ---
+## Online Repository
+### [Youtube: EE 644 Physics of Transistor](https://youtube.com/playlist?list=PLUSiNOu9YYdTFmI9MYT1CuVDCzavsd7qt&si=5Ch1lfEMcBvsXSeI)
+
 ## Courses  
 ### 2024-25 (Semester II)  
 EE321 (Analog IC Design Lab, Microelectronics Lab)  
