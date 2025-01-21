@@ -8,7 +8,7 @@ redirect_from:
   - /about.html/
 ---
 
-Professor 
+Professor, 
 [Nanoelectronic Devices and Circuits Laboratory (nanoDC Lab)](https://www.linkedin.com/company/80106171/admin/dashboard/)  
 Electrical Engineering, Indian Institute of Technology Gandhinagar  
 
