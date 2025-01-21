@@ -7,7 +7,7 @@ redirect_from:
   - /research/
 ---
 
-## Research Area
+## Research Areas
 
 1\. High voltage and high power devices for Power Management Integrated Circuits (PMICs)  
 2\. Bipolar transistors for Analog and RF applications  
