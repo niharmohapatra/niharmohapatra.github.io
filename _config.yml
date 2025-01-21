@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nihar"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nihar Ranjan Mohapatra"
 description              : &description  "Professor, nanoDC Lab, Electrical Engineering, IIT Gandhinagar "
