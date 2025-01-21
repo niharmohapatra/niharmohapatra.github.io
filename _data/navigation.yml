@@ -3,11 +3,11 @@ main:
   - title: "News"
     url: /news/  
     
-  - title: "Research"
-    url: /research/  
+  # - title: "Research"
+  #   url: /research/  
         
-  - title: "Collaboration"
-    url: /collaboration/   
+  # - title: "Collaboration"
+  #   url: /collaboration/   
     
   - title: "Teaching"
     url: /teaching/    
