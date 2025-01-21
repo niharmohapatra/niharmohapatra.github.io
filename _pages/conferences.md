@@ -1,9 +1,10 @@
 ---
-
+layout: archive
 title: "Conference Proceedings"
 permalink: /conferences/
 author_profile: true
-
+redirect_from:
+  - /conferences
 ---
 
 # Conference Proceedings
