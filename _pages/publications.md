@@ -8,3 +8,5 @@ author_profile: true
 # [Journals](/journals/)
 
 # [Conferences](/conferences/)
+
+# [Patents](/patents/)
