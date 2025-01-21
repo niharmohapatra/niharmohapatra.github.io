@@ -1,66 +1,77 @@
 ---
 layout: archive
-title: "Group"
+title: "Group Members"
 permalink: /group/
 author_profile: true
 redirect_from:
   - /group
 ---
 
-Post Doctoral Fellows
-======
-- Santhia Carmel
 
-PhD students
-======
-- Radhika Jogelkar
+
+## PhD students  
+
+- Siddharth Mohanty
 - Jaisingh Pal
+- Radhika Jogelkar (ML assisted Computational Lithography)
 - Om Maheshwari, PMRF (ML assisted Device-Process Optimization)
-- D. Sharda Devi, PMRF (Reconfigurable FETs)
+- D. Sharda Devi, PMRF (2D Material based FETs)
 - Nishant kumar Singh (PMIC Design) 
 - Aishwarya Singh (Compact model development)
-- Rutu Patel (RF Devices, Inverse Design)
-- Ramandeep Kaur (NS FETs, Device-Circuit Co-design)
-- Kumari Neeraj Kaushal (High Voltage Devices)
+- Ramandeep Kaur (NSFETs, Device-Circuit Co-design)
 
-MTech students
-======
-- Sakshi Sawai
+## MTech students  
+- Faizan Shaikh
+- Narendira K
 
-Junior Research Fellows/Research Assistants
-======
-- Yogesh Kumar Sahu
-
-Past Students
-======
-
+# Past Students
 ## Graduated PhD Students
+
+9\. Rutu Patel (Thesis- Design and Optimization of High Voltage, High Power LDMOS Transistors for RF Power Applications, Graduated in 2024), Joined TSMC, Taiwan.
+
+8\.  Kumari Neeraj Kaushal (Thesis- Indigeneous Technology Development of High Voltage MOS Trransistors for Power Management Applications, Graduated in 2023), Joined Intel, India.
+
 7\. Satyajit Mohapatra (Thesis - Linearity enhancement techniques in high resolution pipelined ADCs, Graduated in 2021).
 
-6\. Mandar Bhoir (Thesis - Advanced CMOS technologies for SoC applications: Challenges and solutions from analogRF perspectives/, Graduated in 2020), Joined Micron Technologies, Hyderabad, India.
+6\. Mandar Bhoir (Thesis - Advanced CMOS technologies for SoC applications: Challenges and solutions from analogRF perspectives, Graduated in 2020), Joined Micron Technologies.
 
-5\. Mohit Ganeriwala (Thesis - Compact electrostatic and transport model for high mobility III-V channel gate all around MOS transistors, Graduated in 2020), Joined GLOBALFOUNDRIES, Bengaluru, India.
+5\. Mohit Ganeriwala (Thesis - Compact electrostatic and transport model for high mobility III-V channel gate all around MOS transistors, Graduated in 2020), Joined GLOBALFOUNDRIES, Bengaluru, India. Now MSCA Post Doctoral Fellow at University of Granada, Spain.
 
-4\. Apoorva Ojha (Thesis - Compact Modeling Solutions for Advanced MOS Devices, Graduated in 2019), Joined Maxim Integrated, Bengaluru, India.
+4\. Apoorva Ojha (Thesis - Compact Modeling Solutions for Advanced MOS Devices, Graduated in 2019), Joined Maxim Integrated, Bengaluru, India. Now at Synopsys India.
 
-3\. Pardeep Kumar (Thesis - Modeling and Optimisation Techniques for Efficient Lithography Simulation, Graduated in 2019), Joined ASML.
+3\. Pardeep Kumar (Thesis - Modeling and Optimisation Techniques for Efficient Lithography Simulation, Graduated in 2019), Joined ASML, now at Applied Materials, India.
 
 2\. Pardeep Duhan (Thesis - Effect of Device Dimensions, Layout and Technological Parameters on the Performance and Reliability of Nano-scale HKMG Transistors,, Graduated 2017), Joined GLOBALFOUNDRIES, Singapore. Then in Fraunhofer Institute for Photonic Microsystems, Dresden. Currently working as an Assistant Professor in IIT Ropar http://www.iitrpr.ac.in/.
 
 1\. Satya Siva Naresh (Thesis - Anomalous Narrow Width Effect in Gate First High-K Metal Gate MOS Transistors, Graduated in 2016), Joined GLOBALFOUNDRIES, Singapore. Now in Intel india, Bengaluru.
 
+## Past Post Doctoral Fellows  
+- Santhia Carmel
+
 ## Past JRFs and Lab Engineers
+6\.  Yogesh Kumar Sahu (Joined IISc as a PhD student)
+
 5\. Diptesh Gayen (Joined University of Freiburg as a PhD student)
 
 4\. Gunamala Jain
 
-3\. Amratansh Gupta (Joined IISc Bangalore as a MTech student)
+3\. Amratansh Gupta (Joined IISc Bangalore as a MTech student, now PhD student at imec, Belgium)
 
-2\. Soumya Ranjan Panda (Joined University of Bordeaux as a PhD student)
+2\. Soumya Ranjan Panda (Joined University of Bordeaux as a PhD student, now Assistant Professor at NIT Rourkela)
 
-1\. Rajesh Yadav (Joined eInfochips (An Arrow Company))
+1\. Rajesh Yadav (Joined eInfochips (An Arrow Company). Now at Samsung Semiconductors India)
 
 ## Graduated MTech Students
+
+36\. Ashwini Pathak (Thesis - On-chip low frequency sinusoidal oscillator for cryocooler applications, Graduated in 2024)
+, Joined Intel, Bangaluru, India.
+
+35\. Purva Choukuse (Thesis - Sensitivity Analysis of Step Field Plate LDMOS Transistors, Graduated in 2024), Joined Mahindra Group, Chennai, India.
+
+34\. Vivek Yadav (Thesis - On-chip low frequency sinusoidal oscillator for cryocooler applications, Graduated in 2024), Co-founder TRADO (Startup, IIT Gandhinagar).
+
+33\. Sakshi Sawai (Thesis - On-chip low frequency sinusoidal oscillator for cryocooler applications, Graduated in 2023), Joined 
+
 32\. Ravins Katiyar (Thesis - Device design of indigenous low-cost single, double-poly silicon bipolar transistors for Analog and RF applications, Graduated in 2021), Joined GLOBALFOUNDRIES, Bengaluru, India.
 
 31\. Pratik Sharma (Thesis - Effect of Channel Dimensions and Spacer Material on Drain Saturation Voltage of sub-10nm Wfin regime FinFETs, Graduated in 2021), Joined Synopsys Inc., Noida, UP, India.
@@ -125,7 +136,7 @@ Past Students
 
 1\. Satyajit Mohapatra (Thesis - Design of High Resolution Low Power ADC, Graduated in 2014), Joined IIT Gandhinagar as a PhD student.
 
-##Graduated BTech Students (Students who worked on my funded research projects)
+## Graduated BTech Students (Students who worked on my funded research projects)
 
 2\. Vipin Prajapati (BTech 2017, Worked with me for BTP), Currently at Space Application Centre, Indian Space Research Organization.
 
