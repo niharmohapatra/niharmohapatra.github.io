@@ -1,10 +1,10 @@
-
 ---
-
-title: "Journals"
+layout: archive
+title: "journals"
 permalink: /journals/
 author_profile: true
-
+redirect_from:
+  - /journals
 ---
 
 # Journals
