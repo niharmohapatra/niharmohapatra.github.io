@@ -9,22 +9,22 @@ redirect_from:
   - /about.html/
 ---
 
-Professor, Electrical Engineering
-[Nano Devices and Circuits Laboratory (nanoDC Lab)](https://www.linkedin.com/company/80106171/admin/dashboard/)
-Academic Block 13/327-D, Indian Institute of Technology Gandhinagar, Palaj, 382355, Gandhinagar, Gujarat, India
-Email: nihar@iitgn.ac.in
+Professor, Electrical Engineering  
+[Nano Devices and Circuits Laboratory (nanoDC Lab)](https://www.linkedin.com/company/80106171/admin/dashboard/)  
+Academic Block 13/327-D, Indian Institute of Technology Gandhinagar, Palaj, 382355, Gandhinagar, Gujarat, India  
+Email: nihar@iitgn.ac.in  
 
 
 
 Research interests
 ======
- ⇒ Computational nano-electronics
- ⇒ Nanoscale device physics
- ⇒ Process integration
- ⇒ Device/Compact modeling
- ⇒ Analog/Mixed-Signal IC design
- ⇒ PMIC design
- ⇒ Computational lithography
+ ⇒ Computational nano-electronics  
+ ⇒ Nanoscale device physics  
+ ⇒ Process integration  
+ ⇒ Device/Compact modeling  
+ ⇒ Analog/Mixed-Signal IC design  
+ ⇒ PMIC design  
+ ⇒ Computational lithography  
  
 Education
 ======
