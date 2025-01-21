@@ -32,6 +32,11 @@ redirect_from:
 
 **2023**
 ------
+
+4\. Shubham Patil, Anand Sharma, R Gaurav, Abhishek Kadam, Ajay Kumar Singh, Sandip Lashkare, Nihar R. Mohapatra and Udayan Ganguly, *“Process-Voltage-Temperature Variability Estimation of Tunneling Current for Band-to-Band-Tunneling-Based Neuron”*, *IEEE Transactions on Electron Devices*, 2023.
+
+3\. Yogendra Machhiwar, Garima Gill, Kumari Neeraj Kaushal, Nihar R. Mohapatra and Harshit Agarwal, *“Compact Modeling of LDMOS Transistors Over a Wide Temperature Range Including Cryogenics”*, *IEEE Transactions on Electron Devices*, 2023.
+
 2\. Kumari Neeraj Kaushal and Nihar R. Mohapatra, *“A Physics-Based Compact Model to Capture Cryogenic Behavior of LDMOS Transistors”*, *IEEE Transactions on Electron Devices*, Early Access, 2023.
 
 1\. Rutu Patel, Ravi Hegde and Nihar R. Mohapatra, *“Surrogate Models for Device Design using Simple Efficient Deep Learning”*, *Solid State Electronics*, Vol. 199, January 2023.
@@ -52,7 +57,7 @@ redirect_from:
 
 **2021**
 ------
-4/. Mohit D. Generiwala, Francisco G. Ruiz, Enrique G. Marin and Nihar R. Mohapatra,*”A unified compact model for electrostatics of III-V GAA transistors with different geometries”*, *Journal of Computational Electronics*, Vol. 20, Issue 5, pp. 1676-1684, 2021.
+4\. Mohit D. Generiwala, Francisco G. Ruiz, Enrique G. Marin and Nihar R. Mohapatra,*”A unified compact model for electrostatics of III-V GAA transistors with different geometries”*, *Journal of Computational Electronics*, Vol. 20, Issue 5, pp. 1676-1684, 2021.
 
 3\. Biplob Nath, Samit Barai, Pardeep Kumar and Nihar R. Mohapatra,*”A novel ML augmented DRC framework for identification of yield detractor patterns”*, *IEEE Transactions on Semiconductor Manufacturing*, Vol. 34, Issue 3, pp. 379-386, 2021.
 
