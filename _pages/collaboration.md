@@ -1,10 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Research Collaboration"
-excerpt: "Research Collaboration"
+permalink: /collaboration/
 author_profile: true
-redirect_from: 
-  - /collaboration/
+redirect_from:
+  - /collaboration
 ---
 
 ## National Collaborators
