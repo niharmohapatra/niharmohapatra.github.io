@@ -29,10 +29,10 @@ redirect_from:
 7\. Keysights 42GHZ VNA  
 8\. SR570 Low Noise Current Preamplifier  
 9\. ICCAP Device Modeling Software  
-10\. Synopsis TCAD tools  
+10\. Synopsys TCAD tools  
 11\. Global TCAD Solutions (GTS) tools  
 12\. Atomistic Simulation Software - QuantumATK  
-13\. CAD tools (Cadence, Synopsis, Mentorgraphics)  
+13\. CAD tools (Cadence, Synopsys, Mentorgraphics)  
 14\. High-end servers  
 15\. Computational Work Stations  
 16\. Fabrication Equipment  
