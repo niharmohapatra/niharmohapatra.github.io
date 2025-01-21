@@ -9,15 +9,15 @@ venue: "IIT Gandhinagar, Electrical Engineering Department"
 
 ## Courses  
 ### 2024-25 (Semester II)  
-EE321 (Analog IC Design Lab, Microelectronics Lab)  
+EE321 (Analog IC Design Laboratory), EE618 (Microelectronics Laboratory)   
 ### 2024-25 (Semester I)  
 EE321 (Analog CMOS IC Design)  
 ### 2023-24 (Semester II)  
-EE321 (Analog CMOS IC Design)  
+EE321 (Analog CMOS IC Design)   
 ### 2023-24 (Semester I)  
 EE321 (Physics of Transistors)  
 ### 2022-23 (Semester II)  
-EE321 (Analog CMOS IC Design, Microfabrication)  
+EE321 (Analog CMOS IC Design), ES626 (Microfabrication and Semiconductor Processes)    
 ### 2022-23 (Semester I)  
 EE321 (Analog Circuits)  
 ### 2021-22 (Semester II)  
