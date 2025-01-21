@@ -10,7 +10,7 @@ redirect_from:
 
 Professor 
 [Nanoelectronic Devices and Circuits Laboratory (nanoDC Lab)](https://www.linkedin.com/company/80106171/admin/dashboard/)  
-Electrical Engineering, Indian Institute of Technology Gandhinagar
+Electrical Engineering, Indian Institute of Technology Gandhinagar  
 Address: Academic Block 13, 327-D, 
          Indian Institute of Technology Gandhinagar, 
          Palaj, 382355, Gandhinagar, Gujarat, India  
