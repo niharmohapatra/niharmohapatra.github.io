@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Om Maheshwari"
+title                    : "Nihar"
 title_separator          : "-"
-name                     : &name "Om Maheshwari"
-description              : &description  "Prime Minister's Research Fellow, Electrical Engineering, IIT Gandhinagar "
+name                     : &name "Nihar Ranjan Mohapatra"
+description              : &description  "Professor, nanoDC Lab, Electrical Engineering, IIT Gandhinagar "
 url                      : https://ommaheshwari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ommaheshwari/ommaheshwari.github.io"
+repository               : "niharmohapatra/niharmohapatra.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Om Maheshwari"
-  avatar           : "om_dp.png"
-  bio              : "Prime Minister's Research Fellow, Electrical Engineering, IIT Gandhinagar"
-  location         : "nanoDC Lab, 5/207, IITGN"
+  name             : "Nihar Mohapatra"
+  avatar           : "nihar_.jpeg"
+  bio              : "Professor, nanoDC Lab, Electrical Engineering, IIT Gandhinagar"
+  location         : "AB13/327-D, IIT Gandhinagar"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "om.maheshwari@iitgn.ac.in"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=uX6UFCYAAAAJ"
+  email            : "nihar@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "ommaheshwari"
+  github           : "niharmohapatra"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "om-maheshwari"
+  linkedin         : "nihar-ranjan-mohapatra-84895b53"
   orcid            : 
   pinterest        :
   soundcloud       :
