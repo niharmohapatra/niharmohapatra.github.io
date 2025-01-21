@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /
 title: "Nihar Ranjan Mohapatra"
 excerpt: "About me"
 author_profile: true
