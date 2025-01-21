@@ -7,9 +7,31 @@ redirect_from:
   - /conferences
 ---
 
+**2024**  
+------
+8\. Nishant Kumar, Hari Shanker Gupta, Anuj Srivastava and Nihar R\. Mohapatra, *“A Programmable and Adaptive Dead-Time Controller for Low-Offset Output Generation for Cryo-Cooler Drive Applications”*,  *IEEE ISCAS 2024*, Singapore, 2024.
+
+7\. Om Maheshwari and Nihar R\. Mohapatra, *“Enhanced ANN for Accurate Current Prediction and Circuit Simulation in Nanosheet FETs”*,  *IEEE EDTM 2024*, Bangalore, India, 2024.
+
+6\. Rutu Patel and Nihar R\. Mohapatra, *“Device Design of Step Field Plate RF LDMOS Transistor for Improved Power Amplifier Applications”*,  *IEEE EDTM 2024*, Bangalore, India, 2024.
+
+5\. Pardeep Kumar, Tanmay Joshi, Radhika Joglekar, and Nihar R\. Mohapatra, *“ComputLitho–An Indigenous Optical Lithography Simulator with Novel Features”*,  *IEEE EDTM 2024*, Bangalore, India, 2024.
+
+4\. Aishwarya Singh, Om Maheshwari and Nihar R\. Mohapatra, *“Dissecting Parasitic Capacitance in Nanosheet FETs: An Analytical Perspective”*,  *IEEE EDTM 2024*, Bangalore, India, 2024.
+
+3\. Om Maheshwari, Aishwarya Singh and Nihar R\. Mohapatra, *“Training Free Parameter Extraction for Compact Device Models using Sequential Bayesian Optimization”*,  *IEEE EDTM 2023*, Bangalore, India, 2024.
+
+2\. Aishwarya Singh, Mohit D Ganeriwala, and Nihar R\. Mohapatra, *“Physics-based Scalable Compact Model for Terminal Charge, Intrinsic Capacitance and Drain Current in Nanosheet FETs”*,  *IEEE EDTM 2024*, Bangalore, India, 2023. *This paper received the “Best Poster” award*.
+
+1\. Om Maheshwari, Dev Vyas and Nihar R\. Mohapatra, *“K-means Clustering with ANN based Classification to Predict Current-Voltage Characteristics of Advanced FETs”*,  *VLSID 2024*, Kolkata, India, 2024.
+
 
 **2023**  
 ------
+3\. Nishant Kumar, Hari Shanker Gupta, Nilesh M Desai, and Nihar R\. Mohapatra, *“Sub-nanosecond Delay High Voltage Level Shifter in 0.18 μm HV-CMOS Technology for Cryo-Cooler Electronics”*,  *IEEE APCCAS 2023*, Hyderabad, India, 2023.
+
+2\. Santhia Carmel A., D. Sharda Devi and Nihar R\. Mohapatra, *“Reduction of Schottky Barrier Height for Au-WS2 Interface with Iodine Doping - A Physical Insight”*, *IEEE NANO 2023*, Jeju Islands, South Korea, 2023.
+
 1\. Ramandeep Kaur and Nihar R\. Mohapatra, *“Process-Induced Uniaxial Strain in Naosheet-FET Based CMOS Technology – Is It Still Beneficial”*, Accepted for Oral Presentation, *IEEE EDTM 2023*, Seoul, South Korea, 2023.
 
 **2022**  
