@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "journals"
+title: "Journals"
 permalink: /journals/
 author_profile: true
 redirect_from:
   - /journals
 ---
 
-# Journals
+
 **2025**
 
 1\. Ramandeep Kaur and Nihar R. Mohapatra, *“Exploring the impact of sheet thickness scaling on Nanosheet FET gate electrostatics using kp based simulations”*, *Microelectronics Journal 156*,2024.
