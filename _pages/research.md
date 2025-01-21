@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "Research"
-excerpt: "Research"
+layout: archive
+title: "Research "
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
+redirect_from:
+  - /research
 ---
 
 ## Research Areas
