@@ -5,20 +5,22 @@ main:
     
   - title: "Research"
     url: /research/  
+
+ - title: "Collaboration"
+    url: /collaboration/  
+
+  - title: "Publications"
+    url: /publications/ 
     
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Talks"
     url: /talks/
-
-  - title: "Publications"
-    url: /publications/ 
     
   - title: "Group"
     url: /group/  
 
-  - title: "Collaboration"
-    url: /collaboration/   
+ 
 
     
