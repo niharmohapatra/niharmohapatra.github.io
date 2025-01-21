@@ -1,8 +1,8 @@
 
 ---
 
-title: "Publications"
-permalink: /publications/
+title: "Journals"
+permalink: /journals/
 author_profile: true
 
 ---
