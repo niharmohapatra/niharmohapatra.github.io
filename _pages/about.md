@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Nihar Ranjan Mohapatra"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
