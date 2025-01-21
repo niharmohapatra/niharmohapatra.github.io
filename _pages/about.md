@@ -56,4 +56,6 @@ Open Positions
 
 Contact
 ======
-Academic Block - 13/327-D, Indian Institute of Technology Gandhinagar, Palaj, 382355, Gandhinagar Gujarat, India
+Academic Block - 13/327-D, Indian Institute of Technology Gandhinagar, Palaj, 382355, Gandhinagar Gujarat, India  
+
+Email: nihar@iitgn.ac.in
