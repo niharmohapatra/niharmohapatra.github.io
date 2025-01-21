@@ -1,7 +1,7 @@
 ---
 
-title: "Journals"
-permalink: /journals/
+title: "Conference Proceedings"
+permalink: /conferences/
 author_profile: true
 
 ---
