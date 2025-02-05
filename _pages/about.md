@@ -20,8 +20,8 @@ Email: nihar(at)iitgn(dot)ac(dot)in
  
 Education
 ======
-PhD, Electrical Engineering, [Indian Institute of Technology Bombay](http://www.iitb.ac.in/), 1999-2004  
-BE, Electrical Engineering, [Veer Surendra Sai University of Technology Burla, Odisha](http://www.vssut.ac.in/), 1994-1998, University Gold Medalist 
+PhD, Electrical Engineering, [Indian Institute of Technology Bombay](http://www.iitb.ac.in/), 2004  
+BE, Electrical Engineering, [Veer Surendra Sai University of Technology Burla, Odisha](http://www.vssut.ac.in/), 1998, University Gold Medalist 
 
 Work experience
 ======
