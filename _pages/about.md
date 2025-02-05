@@ -12,30 +12,17 @@ Professor,
 [Nanoelectronic Devices and Circuits Laboratory (nanoDC Lab)](https://www.linkedin.com/company/80106171/admin/dashboard/)  
 Electrical Engineering, Indian Institute of Technology Gandhinagar  
 
-Address: Academic Block 13, 327-D,   
-         Indian Institute of Technology Gandhinagar,   
+Address: Academic Block 13, 327-D  
+         Indian Institute of Technology Gandhinagar   
          Palaj, 382355, Gandhinagar, Gujarat, India    
-
-         
-Email: nihar@iitgn.ac.in  
-
-
-
-Research interests
-======
- ⇒ Computational nano-electronics  
- ⇒ Nanoscale device physics  
- ⇒ Process integration  
- ⇒ Device/Compact modeling  
- ⇒ Analog/Mixed-Signal IC design  
- ⇒ PMIC design  
- ⇒ Computational lithography  
+      
+Email: nihar(at)iitgn(dot)ac(dot)in   
  
 Education
 ======
-*  BE, Electrical Engineering,  [Veer Surendra Sai University of Technology Burla, Odisha](http://www.vssut.ac.in/), 1994-1998, University Gold Medalist
+*  BE, Electrical Engineering, [Veer Surendra Sai University of Technology Burla, Odisha](http://www.vssut.ac.in/), 1994-1998, University Gold Medalist
 
-* PhD, Electrical Engineering,  [Indian Institute of Technology Bombay](http://www.iitb.ac.in/), 1999-2004
+* PhD, Electrical Engineering, [Indian Institute of Technology Bombay](http://www.iitb.ac.in/), 1999-2004
   
 Work experience
 ======
@@ -59,7 +46,7 @@ Open Positions
 
 Contact
 ======
-Academic Block - 13/327-D, Indian Institute of Technology Gandhinagar, Palaj, 382355, Gandhinagar Gujarat, India  
+Academic Block 13/327D, Indian Institute of Technology Gandhinagar, Palaj, 382355, Gandhinagar Gujarat, India  
 
-Email: **nihar@iitgn.ac.in**
+Email: **nihar(at)iitgn(dot)ac(dot)in**
 
