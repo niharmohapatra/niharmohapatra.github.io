@@ -18,7 +18,6 @@ redirect_from:
 - D. Sharda Devi, PMRF (2D Material based FETs)
 - Nishant Kumar Singh (PMIC Design) 
 - Aishwarya Singh (Compact model development)
-- Ramandeep Kaur (NSFETs, Device-Circuit Co-design)
 
 ## MTech students  
 - Faizan Shaikh
@@ -27,13 +26,15 @@ redirect_from:
 # Past Students
 ## Graduated PhD Students
 
+10\. Ramandeep Kaur (Thesis- Nanosheet FET-based CMOS Technology for Future Electronics: Challenges in Sheet Thickness Scaling and Solutions, Graduated in 2025), Joined Micron Technologies, Hyderabad, India.
+
 9\. Rutu Patel (Thesis- Design and Optimization of High Voltage, High Power LDMOS Transistors for RF Power Applications, Graduated in 2024), Joined TSMC, Taiwan.
 
 8\.  Kumari Neeraj Kaushal (Thesis- Indigeneous Technology Development of High Voltage MOS Trransistors for Power Management Applications, Graduated in 2023), Joined Intel, India.
 
 7\. Satyajit Mohapatra (Thesis - Linearity enhancement techniques in high resolution pipelined ADCs, Graduated in 2021).
 
-6\. Mandar Bhoir (Thesis - Advanced CMOS technologies for SoC applications: Challenges and solutions from analogRF perspectives, Graduated in 2020), Joined Micron Technologies.
+6\. Mandar Bhoir (Thesis - Advanced CMOS technologies for SoC applications: Challenges and solutions from analogRF perspectives, Graduated in 2020), Joined Micron Technologies, USA.
 
 5\. Mohit Ganeriwala (Thesis - Compact electrostatic and transport model for high mobility III-V channel gate all around MOS transistors, Graduated in 2020), Joined GLOBALFOUNDRIES, Bengaluru, India. Now MSCA Post Doctoral Fellow at University of Granada, Spain.
 
